@@ -6,6 +6,7 @@ HTML, CSS, JavaScript를 활용하여 스탑워치 제작
 ## 기능
 - 시간 측정(시작/일시정지/초기화)
 - 시간 기록
+- 전체화면 기능
 
 ## How To Use
 1) repository 다운받기
@@ -16,3 +17,4 @@ git clone https://github.com/cogito30/js_stopwatch2.git
 
 ## Result
 ![Stopwatch 결과물1](./result/result1.png)
+![Stopwatch 결과물1](./result/result2.png)
